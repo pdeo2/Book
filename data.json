@@ -1,0 +1,403 @@
+{
+    "message": "Books found",
+    "totalBooks": 10,
+    "books": [
+      {
+        "_id": "648a055cefb409fe8749d288",
+        "title": "Harry Potter and the Philosopher's Stone",
+        "author": "J.K. Rowling",
+        "description": "The first book in the Harry Potter series introduces readers to the magical world of Hogwarts and follows the journey of Harry Potter as he discovers his true identity, battles dark forces, and unravels the mysteries surrounding his past.",
+        "rating": 0,
+        "category": "fantasy",
+        "viewCount": 220,
+        "user": {
+          "_id": "64899246b7b0a83d71450a21",
+          "name": "Shaik Ahmad Nawaz ",
+          "id": "64899246b7b0a83d71450a21"
+        },
+        "createdAt": "2023-06-14T18:22:20.168Z",
+        "coverImage": "https://booktalks.s3.amazonaws.com/Harry Potter and the Philosopher's Stone.jpg",
+        "__v": 0,
+        "reviews": [
+          {
+            "_id": "648b32e2ffce0d87495bfdfa",
+            "user": {
+              "_id": "64899246b7b0a83d71450a21",
+              "name": "Shaik Ahmad Nawaz ",
+              "id": "64899246b7b0a83d71450a21"
+            },
+            "book": "648a055cefb409fe8749d288",
+            "comment": "Rating Nice",
+            "date": "2023-06-15T15:48:50.485Z",
+            "__v": 0,
+            "rating": 5
+          },
+          {
+            "_id": "648b342cffce0d87495bfe00",
+            "user": {
+              "_id": "64899246b7b0a83d71450a21",
+              "name": "Shaik Ahmad Nawaz ",
+              "id": "64899246b7b0a83d71450a21"
+            },
+            "book": "648a055cefb409fe8749d288",
+            "comment": "Great Book",
+            "rating": 4,
+            "date": "2023-06-15T15:54:20.474Z",
+            "__v": 0
+          },
+          {
+            "_id": "648b3535ffce0d87495bfe22",
+            "user": {
+              "_id": "64899246b7b0a83d71450a21",
+              "name": "Shaik Ahmad Nawaz ",
+              "id": "64899246b7b0a83d71450a21"
+            },
+            "book": "648a055cefb409fe8749d288",
+            "comment": "Good",
+            "date": "2023-06-15T15:58:45.799Z",
+            "__v": 0,
+            "rating": 5
+          },
+          {
+            "_id": "648b3678ffce0d87495bfe42",
+            "user": {
+              "_id": "64899246b7b0a83d71450a21",
+              "name": "Shaik Ahmad Nawaz ",
+              "id": "64899246b7b0a83d71450a21"
+            },
+            "book": "648a055cefb409fe8749d288",
+            "comment": "Good Two",
+            "rating": 2,
+            "date": "2023-06-15T16:04:08.057Z",
+            "__v": 0
+          },
+          {
+            "_id": "648b5e9d951e524680583f8f",
+            "user": {
+              "_id": "6489cadb5c340b671b47d2bb",
+              "name": "Good User",
+              "id": "6489cadb5c340b671b47d2bb"
+            },
+            "book": "648a055cefb409fe8749d288",
+            "comment": "Great",
+            "rating": 5,
+            "date": "2023-06-15T18:55:25.822Z",
+            "__v": 0
+          },
+          {
+            "_id": "648bf74d51a90ee40f783629",
+            "user": {
+              "_id": "64899246b7b0a83d71450a21",
+              "name": "Shaik Ahmad Nawaz ",
+              "id": "64899246b7b0a83d71450a21"
+            },
+            "book": "648a055cefb409fe8749d288",
+            "comment": "Great",
+            "rating": 4,
+            "date": "2023-06-16T05:46:53.783Z",
+            "__v": 0
+          }
+        ],
+        "id": "648a055cefb409fe8749d288"
+      },
+      {
+        "_id": "648a0683efb409fe8749d2a2",
+        "title": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien",
+        "description": " This epic fantasy trilogy follows the journey of Frodo Baggins as he embarks on a quest to destroy the One Ring and save Middle-earth from the Dark Lord Sauron.",
+        "rating": 0,
+        "category": "fantasy",
+        "viewCount": 8,
+        "user": {
+          "_id": "64899246b7b0a83d71450a21",
+          "name": "Shaik Ahmad Nawaz ",
+          "id": "64899246b7b0a83d71450a21"
+        },
+        "createdAt": "2023-06-14T18:27:15.617Z",
+        "coverImage": "https://booktalks.s3.amazonaws.com/The Lord of the Rings.jpg",
+        "__v": 0,
+        "reviews": [
+          
+        ],
+        "id": "648a0683efb409fe8749d2a2"
+      },
+      {
+        "_id": "648a06e5efb409fe8749d2a6",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "description": "Set in the Jazz Age, the novel explores themes of wealth, love, and the American Dream through the eyes of the enigmatic Jay Gatsby and narrator Nick Carraway.",
+        "rating": 0,
+        "category": "fiction",
+        "viewCount": 3,
+        "user": {
+          "_id": "64899246b7b0a83d71450a21",
+          "name": "Shaik Ahmad Nawaz ",
+          "id": "64899246b7b0a83d71450a21"
+        },
+        "createdAt": "2023-06-14T18:28:53.769Z",
+        "coverImage": "https://booktalks.s3.amazonaws.com/The Great Gatsby.jpg",
+        "__v": 0,
+        "reviews": [
+          
+        ],
+        "id": "648a06e5efb409fe8749d2a6"
+      },
+      {
+        "_id": "648a07b4efb409fe8749d2aa",
+        "title": "1984",
+        "author": "George Orwell",
+        "description": "Set in a totalitarian society, the novel explores themes of government surveillance, propaganda, and the loss of individual freedom, following the life of protagonist Winston Smith.",
+        "rating": 0,
+        "category": "science-fiction",
+        "viewCount": 4,
+        "user": {
+          "_id": "64899246b7b0a83d71450a21",
+          "name": "Shaik Ahmad Nawaz ",
+          "id": "64899246b7b0a83d71450a21"
+        },
+        "createdAt": "2023-06-14T18:32:20.345Z",
+        "coverImage": "https://booktalks.s3.amazonaws.com/1984.jpg",
+        "__v": 0,
+        "reviews": [
+          
+        ],
+        "id": "648a07b4efb409fe8749d2aa"
+      },
+      {
+        "_id": "648a087fefb409fe8749d2b0",
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "description": "Description: Set in the 1930s in a small Southern town, this novel explores themes of racial injustice, innocence, and morality through the eyes of Scout Finch, a young girl whose father defends a black man falsely accused of rape.",
+        "rating": 0,
+        "category": "fiction",
+        "viewCount": 4,
+        "user": {
+          "_id": "64899246b7b0a83d71450a21",
+          "name": "Shaik Ahmad Nawaz ",
+          "id": "64899246b7b0a83d71450a21"
+        },
+        "createdAt": "2023-06-14T18:35:43.195Z",
+        "coverImage": "https://booktalks.s3.amazonaws.com/To Kill a Mockingbird.jpg",
+        "__v": 0,
+        "reviews": [
+          
+        ],
+        "id": "648a087fefb409fe8749d2b0"
+      },
+      {
+        "_id": "64909207ece679e9906bf6bf",
+        "title": "yuouip",
+        "author": "iop",
+        "description": "this is bad",
+        "rating": 0,
+        "category": "biography",
+        "viewCount": 16,
+        "user": {
+          "_id": "64909183ece679e9906bf6b7",
+          "name": "ttyyu",
+          "id": "64909183ece679e9906bf6b7"
+        },
+        "createdAt": "2023-06-19T17:36:07.699Z",
+        "coverImage": "https://booktalks.s3.amazonaws.com/DHT22_11 & LCD1602 Interfacing with Arduino UNO - Wokwi Arduino and ESP32 Simulator - Google Chrome 04-05-2023 16_51_34.png",
+        "__v": 0,
+        "reviews": [
+          {
+            "_id": "6491c8cbc24c6a3dd30dd6ee",
+            "user": {
+              "_id": "6491c87cc24c6a3dd30dd6d8",
+              "name": "Ahmad Nawaz Shaik",
+              "profileImage": "https://booktalks.s3.amazonaws.com/profile-images/6491c87cc24c6a3dd30dd6d8/cartoon.jpg",
+              "id": "6491c87cc24c6a3dd30dd6d8"
+            },
+            "book": "64909207ece679e9906bf6bf",
+            "comment": "Give me",
+            "rating": 4,
+            "date": "2023-06-20T15:42:03.000Z",
+            "__v": 0
+          }
+        ],
+        "id": "64909207ece679e9906bf6bf"
+      },
+      {
+        "_id": "649139155299cd17ed863a6e",
+        "title": "ghhjjhhj",
+        "author": "hhjhkk",
+        "description": "uiuho;i;bhvgvhvhvm",
+        "rating": 0,
+        "category": "poetry",
+        "viewCount": 1,
+        "user": {
+          "_id": "649138c55299cd17ed863a68",
+          "name": "Priya",
+          "id": "649138c55299cd17ed863a68"
+        },
+        "createdAt": "2023-06-20T05:28:53.453Z",
+        "coverImage": "https://booktalks.s3.amazonaws.com/DHT22_11 & LCD1602 Interfacing with Arduino UNO - Wokwi Arduino and ESP32 Simulator - Google Chrome 04-05-2023 16_49_49.png",
+        "__v": 0,
+        "reviews": [
+          
+        ],
+        "id": "649139155299cd17ed863a6e"
+      },
+      {
+        "_id": "649287b8fd9e5f5b2ff55530",
+        "title": "hjdf",
+        "author": "gfhg",
+        "description": "gfhhg",
+        "rating": 0,
+        "category": "art",
+        "viewCount": 1,
+        "user": {
+          "_id": "64899246b7b0a83d71450a21",
+          "name": "Shaik Ahmad Nawaz ",
+          "id": "64899246b7b0a83d71450a21"
+        },
+        "createdAt": "2023-06-21T05:16:40.500Z",
+        "coverImage": "https://booktalks.s3.amazonaws.com/image.jpg",
+        "__v": 0,
+        "reviews": [
+          
+        ],
+        "id": "649287b8fd9e5f5b2ff55530"
+      },
+      {
+        "_id": "64928833cf87c241ad7abb64",
+        "title": "jhkfdg",
+        "author": "Robert Kiyosaki",
+        "description": "gfhhg",
+        "rating": 0,
+        "category": "business",
+        "viewCount": 32,
+        "user": {
+          "_id": "64899246b7b0a83d71450a21",
+          "name": "Shaik Ahmad Nawaz ",
+          "id": "64899246b7b0a83d71450a21"
+        },
+        "createdAt": "2023-06-21T05:18:43.615Z",
+        "coverImage": "https://booktalks.s3.amazonaws.com/cover-images/64928833cf87c241ad7abb64/image.jpg",
+        "__v": 0,
+        "reviews": [
+          {
+            "_id": "6492918c9156571e59497d68",
+            "user": {
+              "_id": "6491c87cc24c6a3dd30dd6d8",
+              "name": "Ahmad Nawaz Shaik",
+              "profileImage": "https://booktalks.s3.amazonaws.com/profile-images/6491c87cc24c6a3dd30dd6d8/cartoon.jpg",
+              "id": "6491c87cc24c6a3dd30dd6d8"
+            },
+            "book": "64928833cf87c241ad7abb64",
+            "comment": "hello",
+            "rating": 5,
+            "date": "2023-06-21T05:58:36.224Z",
+            "__v": 0
+          },
+          {
+            "_id": "649299c31d81cc6cd8e3aad0",
+            "user": {
+              "_id": "6491c87cc24c6a3dd30dd6d8",
+              "name": "Ahmad Nawaz Shaik",
+              "profileImage": "https://booktalks.s3.amazonaws.com/profile-images/6491c87cc24c6a3dd30dd6d8/cartoon.jpg",
+              "id": "6491c87cc24c6a3dd30dd6d8"
+            },
+            "book": "64928833cf87c241ad7abb64",
+            "comment": "New review",
+            "rating": 5,
+            "date": "2023-06-21T06:33:39.037Z",
+            "__v": 0
+          },
+          {
+            "_id": "6492db8d0c7c8bd90bb9e5bd",
+            "user": {
+              "_id": "6492db7b0c7c8bd90bb9e5b2",
+              "name": "Ahmad Nawaz Shaik",
+              "profileImage": "https://booktalks.s3.amazonaws.com/profile-images/6492db7b0c7c8bd90bb9e5b2/image.jpg",
+              "id": "6492db7b0c7c8bd90bb9e5b2"
+            },
+            "book": "64928833cf87c241ad7abb64",
+            "comment": "Hello",
+            "rating": 5,
+            "date": "2023-06-21T11:14:21.175Z",
+            "__v": 0
+          }
+        ],
+        "id": "64928833cf87c241ad7abb64"
+      },
+      {
+        "_id": "6492e0e80c7c8bd90bb9e602",
+        "title": "jkdfkj",
+        "author": "hghf",
+        "description": "ghgf",
+        "rating": 0,
+        "category": "art",
+        "viewCount": 20,
+        "user": {
+          "_id": "6491c87cc24c6a3dd30dd6d8",
+          "name": "Ahmad Nawaz Shaik",
+          "profileImage": "https://booktalks.s3.amazonaws.com/profile-images/6491c87cc24c6a3dd30dd6d8/cartoon.jpg",
+          "id": "6491c87cc24c6a3dd30dd6d8"
+        },
+        "createdAt": "2023-06-21T11:37:12.660Z",
+        "coverImage": "https://booktalks.s3.amazonaws.com/cover-images/6492e0e80c7c8bd90bb9e602/image.jpg",
+        "__v": 0,
+        "reviews": [
+          {
+            "_id": "6493f04676eb70f406e6d56f",
+            "user": {
+              "_id": "6491c87cc24c6a3dd30dd6d8",
+              "name": "Ahmad Nawaz Shaik",
+              "profileImage": "https://booktalks.s3.amazonaws.com/profile-images/6491c87cc24c6a3dd30dd6d8/cartoon.jpg",
+              "id": "6491c87cc24c6a3dd30dd6d8"
+            },
+            "book": "6492e0e80c7c8bd90bb9e602",
+            "comment": "Nice book",
+            "rating": 5,
+            "date": "2023-06-22T06:55:02.606Z",
+            "__v": 0
+          },
+          {
+            "_id": "6493f1a576eb70f406e6d580",
+            "user": {
+              "_id": "6491c87cc24c6a3dd30dd6d8",
+              "name": "Ahmad Nawaz Shaik",
+              "profileImage": "https://booktalks.s3.amazonaws.com/profile-images/6491c87cc24c6a3dd30dd6d8/cartoon.jpg",
+              "id": "6491c87cc24c6a3dd30dd6d8"
+            },
+            "book": "6492e0e80c7c8bd90bb9e602",
+            "comment": "Hello",
+            "rating": 5,
+            "date": "2023-06-22T07:00:53.641Z",
+            "__v": 0
+          },
+          {
+            "_id": "6493f1d576eb70f406e6d58f",
+            "user": {
+              "_id": "6491c87cc24c6a3dd30dd6d8",
+              "name": "Ahmad Nawaz Shaik",
+              "profileImage": "https://booktalks.s3.amazonaws.com/profile-images/6491c87cc24c6a3dd30dd6d8/cartoon.jpg",
+              "id": "6491c87cc24c6a3dd30dd6d8"
+            },
+            "book": "6492e0e80c7c8bd90bb9e602",
+            "comment": "Hai",
+            "rating": 5,
+            "date": "2023-06-22T07:01:41.156Z",
+            "__v": 0
+          },
+          {
+            "_id": "6493f1f776eb70f406e6d598",
+            "user": {
+              "_id": "6491c87cc24c6a3dd30dd6d8",
+              "name": "Ahmad Nawaz Shaik",
+              "profileImage": "https://booktalks.s3.amazonaws.com/profile-images/6491c87cc24c6a3dd30dd6d8/cartoon.jpg",
+              "id": "6491c87cc24c6a3dd30dd6d8"
+            },
+            "book": "6492e0e80c7c8bd90bb9e602",
+            "comment": "Hai\n",
+            "rating": 5,
+            "date": "2023-06-22T07:02:15.151Z",
+            "__v": 0
+          }
+        ],
+        "id": "6492e0e80c7c8bd90bb9e602"
+      }
+    ]
+  }
